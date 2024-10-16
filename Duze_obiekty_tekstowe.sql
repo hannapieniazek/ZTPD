@@ -5,7 +5,7 @@ create table dokumenty
     dokument clob
 );
 
---2 SPRAWDZIC
+--2
 declare
 tmp clob := empty_clob();
 begin 
